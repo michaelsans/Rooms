@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b070a4f9e91fa5848a6562327351e290, type: 3}
+  m_Name: FlorestaMagica1
+  m_EditorClassIdentifier: 
+  TipoDaSala: 02000000050000000700000005000000040000000500000005000000000000000100000003000000040000000500000005000000070000000500000006000000
+  NumberOfConections: 01000000020000000200000002000000030000000200000003000000020000000200000001000000040000000200000002000000020000000200000001000000
+  BossFoyerRoom:
+  - {fileID: 11400000, guid: 6047aa0ac2b96364f8113ef7bc916083, type: 2}
+  BossRoom:
+  - {fileID: 11400000, guid: 1f075c18f8c22fa4896e2c759098db57, type: 2}
+  EntranceRoom:
+  - {fileID: 11400000, guid: 5752babac55434f428905782e5bded7a, type: 2}
+  ExitRoom:
+  - {fileID: 11400000, guid: 5e05a18e1d5b26a4a80275f881a579d6, type: 2}
+  HUBRoom:
+  - {fileID: 11400000, guid: b18c045e4fb2b2c4a9acebb42fd2ccbb, type: 2}
+  NormalRoom:
+  - {fileID: 11400000, guid: 0705a331922a51f4295da142859e8855, type: 2}
+  - {fileID: 11400000, guid: 0a6cee372fdebff438fa29e3f0e6c704, type: 2}
+  - {fileID: 11400000, guid: 332234629b08d6547872f84edb7f1d82, type: 2}
+  ShopRoom:
+  - {fileID: 11400000, guid: 6085c3a2b8faa4d4e8c9ffdc867a3fb9, type: 2}
+  TreasureRoom:
+  - {fileID: 11400000, guid: ea788b36a95bba84e96bbdea4b7ed0bf, type: 2}

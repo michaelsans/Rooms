@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b170106b2705eb44a5871abf810bd32, type: 3}
+  m_Name: BossRoom1
+  m_EditorClassIdentifier: 
+  RoomName: BossRoom
+  Conections: 2
+  ConectionType: 0000000001000000
+  RoomID: 1
+  RoomsToInstatiate:
+  - {fileID: 2296240005075751431, guid: ed68310fdee4c0f4d852b10c3fafe8db, type: 3}
+  - {fileID: 8893765392528289748, guid: 8257b07c9255a244a828899fed3388b7, type: 3}
