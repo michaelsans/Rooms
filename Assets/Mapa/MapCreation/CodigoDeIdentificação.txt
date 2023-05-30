@@ -1,0 +1,14 @@
+Tipos de Sala
+0-BossFoyer
+1-Boss
+2-Entrance
+3-Exit
+4-HUB
+5-Normal
+6-Shop
+7-Treasure
+
+Tipos de Conexão
+0-Aberta
+1-Cadeada
+2-Destruível/Invisivel
