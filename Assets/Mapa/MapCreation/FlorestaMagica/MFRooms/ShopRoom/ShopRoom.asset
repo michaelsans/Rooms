@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: ShopRoom
   m_EditorClassIdentifier: 
   RoomName: ShopRoom
-  Conections: 2
+  Conections: 1
   ConectionType: 0000000000000000
   RoomID: 6
   RoomsToInstatiate:
